@@ -9,4 +9,4 @@ I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying 
 - analytical analysis
 - Nailong
 
-Aura Coder :)
+Aura Coder. This is totally original :)
