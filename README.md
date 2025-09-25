@@ -1,16 +1,12 @@
-## Hi there 👋
+# "Experience"
+I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
 
-<!--
-**yanicells/yanicells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Currently Learning
+- The meaning of Life
+- The most efficient path to Gate 2.5 from anywhere in campus
+- How to fix one's sleep schedule
+- Hot to save money
+- analytical analysis
+- Nailong
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aura Coder :)
