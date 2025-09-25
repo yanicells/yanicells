@@ -5,7 +5,7 @@ I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying 
 - The meaning of Life
 - The most efficient path to Gate 2.5 from anywhere in campus
 - How to fix one's sleep schedule
-- Hot to save money
+- How to save money
 - analytical analysis
 - Nailong
 
