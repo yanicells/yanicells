@@ -9,6 +9,7 @@ I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying 
 - Amplifying enterprise-scale auditory engagement metrics to drive user-centric ROI
 - Analytical analysis
 - Nailong
+- 37
   
 Aura Coder. This is totally original :)
 
