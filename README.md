@@ -2,7 +2,6 @@
 I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
 
 # Currently Learning
-- Meaning of Life
 - Implementation of strategic fiscal responsibility protocols
 - The most efficient path to Gate 2.5 from anywhere in campus
 - Optimization of circadian rhythm for peak performance
