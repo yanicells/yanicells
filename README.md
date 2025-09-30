@@ -6,9 +6,6 @@ I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying 
 - The most efficient path to Gate 2.5 from anywhere in campus
 - Optimization of circadian rhythm for peak performance
 - Amplifying enterprise-scale auditory engagement metrics to drive user-centric ROI
-- Analytical analysis
-- Nailong
-- 37
   
 Aura Coder. This is totally original :)
 
