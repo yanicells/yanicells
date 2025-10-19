@@ -1,5 +1,5 @@
 # "Experience"
-Director of proactive venture orchestration for personal project lifecycles and academic ecosystem development. Officer and Developer within multiple organizations at a top Philippine university, driving paradigm shifts in grassroots operational frameworks and programmatic value-stream optimization. Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
+I'm new bro. Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
 
 # Currently Learning
 - Implementation of strategic fiscal responsibility protocols
