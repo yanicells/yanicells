@@ -1,5 +1,4 @@
-# "Experience"
-I'm new bro. Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
+I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
 
 # Currently Learning
 - Implementation of strategic fiscal responsibility protocols
