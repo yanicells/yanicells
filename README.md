@@ -1,6 +1,12 @@
 # "Experience"
 I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved, Minor in Self-Sabotage and Detaching from Reality at Ateneo de Manila University.
 
+# Skills
+- Self-sabotage
+- Detachment
+- Isolation
+- Bunso
+
 # Currently Learning
 - Implementation of strategic fiscal responsibility protocols
 - The most efficient path to Gate 2.5 from anywhere in campus
