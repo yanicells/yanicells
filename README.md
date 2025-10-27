@@ -3,9 +3,9 @@ I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying 
 
 # Skills
 - Self-sabotage
+- People pleasing
 - Detachment
 - Isolation
-- People pleasing
 - Overthinking
 - Bunso
 
