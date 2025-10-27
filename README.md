@@ -2,22 +2,13 @@
 I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
 
 # Skills
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
-<div>
-
 - Self-sabotage
 - Detachment
 - Isolation
-
-</div>
-<div>
-
 - People pleasing
 - Overthinking
 - Bunso
 
-</div>
-</div>
 # Currently Learning
 - Implementation of strategic fiscal responsibility protocols
 - The most efficient path to Gate 2.5 from anywhere in campus
