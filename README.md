@@ -1,6 +1,3 @@
-# "Experience"
-I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
-
 # Skills
 - Self-sabotage
 - People pleasing
@@ -16,7 +13,7 @@ I'm new bro. I'm new to this! Also, I'm studying Bachelor of Science in Staying 
 - Optimization of circadian rhythm for peak performance
 - Amplifying enterprise-scale auditory engagement metrics to drive user-centric ROI
   
-<del>Vibe</del> Aura Coder. This is totally original :)
+<del>Vibe</del> Aura Coder. Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
