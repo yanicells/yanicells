@@ -1,11 +1,7 @@
 # Skills
-- Self-sabotage
-- People pleasing
-- Detachment
-- Isolation
-- Overthinking
+- **Mental Stack:** People pleasing, Overthinking, Detachment & Isolation
+- **Coping Mechanisms:** Pretending everything is/will be okay, Self-sabotage
 - Commit maxing
-- Bunso
 
 # Currently Learning
 - Implementation of strategic fiscal responsibility protocols
