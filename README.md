@@ -1,6 +1,6 @@
 # Skills
-- **Mental Stack:** People pleasing, Overthinking, Detachment & Isolation
-- **Coping Mechanisms:** Pretending everything is/will be okay, Self-sabotage
+- **Chronic Issues:** People pleasing, Overthinking, Pretending everything is/will be okay
+- **Coping Mechanisms:** Self-sabotage, Detachment & Isolation
 - Commit maxing
 
 # Currently Learning
