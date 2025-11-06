@@ -9,7 +9,7 @@
 - Optimization of circadian rhythm for peak performance
 - Amplifying enterprise-scale auditory engagement metrics to drive user-centric ROI
   
-<del>Vibe</del> Aura Coder. Also, I'm studying Bachelor of Science in Staying At The Restaurant With Specialization in Being The Man Who Can't Be Moved at Ateneo de Manila University.
+<del>Vibe</del> Aura Coder.
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
