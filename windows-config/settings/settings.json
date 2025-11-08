@@ -194,5 +194,6 @@
     "showTerminalTitleInTitlebar": true,
     "tabWidthMode": "titleLength",
     "themes": [],
-    "useAcrylicInTabRow": true
+    "useAcrylicInTabRow": true,
+    "warning.confirmCloseAllTabs": false
 }
