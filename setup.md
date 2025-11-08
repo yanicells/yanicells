@@ -1,9 +1,133 @@
-# Dev Setup Resources
+# Terminal Setup Guide
 
-## YouTube Guides
-- [WSL Setup Guide](https://www.youtube.com/watch?v=z3NpVq-y6jU&t=2s)
-- [Another Setup Video](https://www.youtube.com/watch?v=jfv2eUHK8ow)
-- [Data & AI Setup](https://www.youtube.com/watch?v=Nm3eKx5uRIk)
+## Prerequisites
+- Windows Terminal installed
+- Git for Windows installed
+- WSL2 with Ubuntu installed
 
-## Repositories
-- [TechWithCosta Dev Setup for Data & AI (2024)](https://github.com/techwithcosta/techwithcosta-yt/blob/main/My%20Dev%20Setup%20For%20Data%20%26%20AI%20(2024)/My%20Dev%20Setup%20For%20Data%20%26%20AI%20(2024).md)
+## 1. Clone Settings Repo
+```bash
+git clone https://github.com/yanicells/yanicells.git
+cd yanicells
+```
+
+## 2. PowerShell Setup
+
+**Copy profile:**
+```powershell
+# Create profile directory if needed
+New-Item -Path "$HOME\Documents\WindowsPowerShell" -ItemType Directory -Force
+
+# Copy profile
+Copy-Item "powershell-profile.ps1" "$HOME\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1"
+```
+
+## 3. Git Bash Setup
+
+**Install fastfetch:**
+```bash
+# Download from https://github.com/fastfetch-cli/fastfetch/releases
+# Extract and add to PATH or place in Git installation folder
+```
+
+**Copy fastfetch config:**
+```bash
+mkdir -p ~/.config/fastfetch
+cp fastfetch-config.jsonc ~/.config/fastfetch/config.jsonc
+cp fastfetch-ascii.txt ~/.config/fastfetch/ascii.txt
+```
+
+**Set tab title:**
+```bash
+touch ~/.bashrc
+echo 'PROMPT_COMMAND='"'"'echo -ne "\033]0;Git Bash\007"'"'"'' >> ~/.bashrc
+```
+
+## 4. Ubuntu (WSL) Setup
+
+**Install essentials:**
+```bash
+sudo apt update
+sudo apt install git zsh -y
+
+# Install fastfetch
+sudo add-apt-repository ppa:zhangsongcui3371/fastfetch -y
+sudo apt update
+sudo apt install fastfetch -y
+```
+
+**Install Oh My Zsh:**
+```bash
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+
+**Install Powerlevel10k:**
+```bash
+git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k
+
+sed -i 's/ZSH_THEME=".*"/ZSH_THEME="powerlevel10k\/powerlevel10k"/' ~/.zshrc
+```
+
+**Copy fastfetch config:**
+```bash
+mkdir -p ~/.config/fastfetch
+cp /mnt/c/path/to/yanicells/fastfetch-config.jsonc ~/.config/fastfetch/config.jsonc
+cp /mnt/c/path/to/yanicells/fastfetch-ascii.txt ~/.config/fastfetch/ascii.txt
+```
+
+**Configure .zshrc:**
+```bash
+echo 'typeset -g POWERLEVEL9K_INSTANT_PROMPT=quiet' | cat - ~/.zshrc > temp && mv temp ~/.zshrc
+echo 'fastfetch' >> ~/.zshrc
+echo 'DISABLE_AUTO_TITLE="true"' >> ~/.zshrc
+echo 'precmd() { echo -ne "\033]0;Ubuntu\007" }' >> ~/.zshrc
+```
+
+**Set Zsh as default:**
+```bash
+chsh -s $(which zsh)
+```
+
+**Setup SSH (reuse existing key):**
+```bash
+mkdir -p ~/.ssh
+# Copy your existing id_ed25519 and id_ed25519.pub to ~/.ssh/
+chmod 600 ~/.ssh/id_ed25519
+chmod 644 ~/.ssh/id_ed25519.pub
+
+# Test
+ssh -T git@github.com
+```
+
+## 5. Windows Terminal Config
+
+**Copy settings:**
+```bash
+# Open Windows Terminal settings (Ctrl+,)
+# Copy JSON from terminal-settings.json into your settings
+# Or manually configure profiles for PowerShell, Git Bash, and Ubuntu
+```
+
+**Key profile settings:**
+
+**Git Bash:**
+```jsonc
+{
+    "commandline": "C:\\Program Files\\Git\\bin\\bash.exe -c \"fastfetch; exec bash\"",
+    "name": "Git Bash",
+    "startingDirectory": "C:\\Users\\YourUsername\\Documents",
+    "tabTitle": "Git Bash"
+}
+```
+
+**Ubuntu:**
+```jsonc
+{
+    "commandline": "wsl.exe -d Ubuntu --cd \"~/dev\" -- zsh -c \"fastfetch; exec zsh\"",
+    "name": "Ubuntu",
+    "tabTitle": "Ubuntu"
+}
+```
+
+## Done!
+Restart all terminals to apply changes.
