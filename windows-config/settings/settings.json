@@ -107,13 +107,13 @@
                 "icon": "C:\\Program Files\\Git\\mingw64\\share\\git\\git-for-windows.ico",
                 "name": "Git Bash",
                 "startingDirectory": "D:\\Documents\\YANI CODE",
-                "tabTitle": "Git Bash"
+                "tabTitle": null
             },
             {
+                "commandline": "wsl.exe -d Ubuntu --cd \"/mnt/d/Documents/YANI CODE\" -- zsh -c \"touch ~/.hushlogin; exec zsh\"",
                 "guid": "{3311a6cf-6ac8-55d4-97d5-48ca53880e8e}",
                 "hidden": false,
-                "name": "Ubuntu",
-                "source": "Microsoft.WSL"
+                "name": "Ubuntu"
             }
         ]
     },
