@@ -1,3 +1,7 @@
+## Additional Reminders
+
+- Add two directories in my explorer quick access, one for where I use git bash and one for where I use WSL.
+
 # Terminal Setup Guide
 
 ## Prerequisites
