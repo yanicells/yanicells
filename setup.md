@@ -1,12 +1,12 @@
 ## Additional Reminders
 
 - Add two directories in my explorer quick access, one for where I use git bash and one for where I use WSL.
-- To ensure that the tab title does not change for any terminal, go to settings, select the terminal profile (Git Bach, Ubuntu), click on Terminal Emulation, and turn on "Supress title changes."
+- To ensure that the title tab title does not change for any terminal, go to settings, select the terminal profile (Git Bash, Ubuntu), click on Terminal Emulation, and turn on "Supress title changes."
 
 # Terminal Setup Guide
 
 ## Prerequisites
-- Windows Terminal installed
+- Windows terminal installed
 - Git for Windows installed
 - WSL2 with Ubuntu installed
 
