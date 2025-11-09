@@ -124,3 +124,5 @@ precmd() {
   print ""  # One blank line
   # or print "\n" for more lines
 }
+
+export PATH="/usr/local/bin:/usr/bin:/bin:$PATH"
