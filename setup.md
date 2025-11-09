@@ -2,6 +2,7 @@
 
 - Add two directories in my explorer quick access, one for where I use git bash and one for where I use WSL.
 - To ensure that the title tab title does not change for any terminal, go to settings, select the terminal profile (Git Bash, Ubuntu), click on Terminal Emulation, and turn on "Supress title changes."
+- In the profile, go to appearance, set Scrollbar visibility to Hidden
 
 # Terminal Setup Guide
 
