@@ -1,3 +1,11 @@
+## Windows and WSL
+- Install Python
+- Install NVM
+- Install Node.js LTS via NVM
+- Install Git for Windows
+- Set up SSH keys and add to GitHub
+- Install bun (optional)
+
 ## VS Code Setup Guide
 - Install all my extensions
 - Import settings from `vscode-settings.json`
