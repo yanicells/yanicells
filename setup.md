@@ -3,6 +3,7 @@
 - Import settings from `vscode-settings.json`
 - Set up keybindings from `vscode-keybindings.json`
 - Download JetBrains Mono font and set it as the default font in settings, and terminal settings.
+- Download it from JetBrains website, extract the zip, and install all TTF files.
 - Have default terminal as git bash or WSL depending on the project.
 
 ## Additional Reminders
