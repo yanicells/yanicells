@@ -1,3 +1,10 @@
+## VS Code Setup Guide
+- Install all my extensions
+- Import settings from `vscode-settings.json`
+- Set up keybindings from `vscode-keybindings.json`
+- Download JetBrains Mono font and set it as the default font in settings, and terminal settings.
+- Have default terminal as git bash or WSL depending on the project.
+
 ## Additional Reminders
 
 - Add two directories in my explorer quick access, one for where I use git bash and one for where I use WSL.
