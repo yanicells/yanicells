@@ -5,6 +5,7 @@
 - Install Git for Windows
 - Set up SSH keys and add to GitHub
 - Install bun (optional)
+- Install tree (for project structure visualization)
 
 ## VS Code Setup Guide
 - Install all my extensions
