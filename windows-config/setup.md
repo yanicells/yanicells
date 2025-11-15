@@ -22,6 +22,13 @@
 - In the profile, go to appearance, set Scrollbar visibility to Hidden
 - In Launch Parameters, launch mode to default, launch position at 0, 0, and center on launch to off.
 
+## Windows Settings Tweaks
+- Set dark mode for system and apps.
+- Hide taskbar in settings.
+- Download flow launcher and set it up.
+- Add alt walker plugin to flow launcher. (research on everything search)
+- Flow launcher: disable animation and sound in settings, launch on startup, double check the Pinyin searching.
+
 # Terminal Setup Guide
 
 ## Prerequisites
