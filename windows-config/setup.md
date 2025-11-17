@@ -20,7 +20,7 @@
 - Add two directories in my explorer quick access, one for where I use git bash and one for where I use WSL.
 - To ensure that the title tab title does not change for any terminal, go to settings, select the terminal profile (Git Bash, Ubuntu), click on Terminal Emulation, and turn on "Supress title changes."
 - In the profile, go to appearance, set Scrollbar visibility to Hidden
-- In Launch Parameters, launch mode to default, launch position at 0, 0, and center on launch to off.
+- In Launch Parameters, launch mode to default, launch position at 0, 0, and center on launch to off. On startup, set to maximized.
 
 ## Windows Settings Tweaks
 - Set dark mode for system and apps.
