@@ -14,7 +14,7 @@
 - Download JetBrains Mono font and set it as the default font in settings, and terminal settings.
 - Download it from JetBrains website, extract the zip, and install all TTF files.
 - Have default terminal as git bash or WSL depending on the project.
-- Configure WSL as remote window (found in bottom left corner of VS Code).
+- Configure WSL: Ubuntu as remote window (found in bottom left corner of VS Code).
 
 ## Additional Reminders
 
