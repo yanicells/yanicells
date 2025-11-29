@@ -16,6 +16,12 @@
 - Have default terminal as git bash or WSL depending on the project.
 - Configure WSL: Ubuntu as remote window (found in bottom left corner of VS Code).
 
+## Code Setup Guide
+- For cursor, import settings from VS Code settings.
+- Edit the font family to "JetBrains Mono", font size and font family
+- Set WSL as remove window.
+- Setup AI tools. Claude Code, and Warp
+
 ## Additional Reminders
 
 - Add two directories in my explorer quick access, one for where I use git bash and one for where I use WSL.
