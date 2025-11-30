@@ -20,6 +20,7 @@
 - For cursor, import settings from VS Code settings.
 - Edit the font family to "JetBrains Mono", font size and font family
 - Set WSL as remove window.
+- When using WSL as remote window, make sure to install the extensions in the WSL window as well.
 - Setup AI tools. Claude Code, and Warp
 
 ## Additional Reminders
