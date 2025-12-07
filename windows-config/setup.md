@@ -22,6 +22,7 @@
 - Set WSL as remove window.
 - When using WSL as remote window, make sure to install the extensions in the WSL window as well.
 - Setup AI tools. Claude Code, and Warp
+- Install bun on WSL and windows. 
 
 ## Additional Reminders
 
