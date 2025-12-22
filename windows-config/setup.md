@@ -23,6 +23,8 @@
 - When using WSL as remote window, make sure to install the extensions in the WSL window as well.
 - Setup AI tools. Claude Code, and Warp
 - Install bun on WSL and windows. 
+- Install Gemini Code Assist in CLI and VS Code.
+- Install Antigravity.
 
 ## Additional Reminders
 
