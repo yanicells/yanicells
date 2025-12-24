@@ -24,7 +24,7 @@
 - Setup AI tools. Claude Code, and Warp
 - Install bun on WSL and windows. 
 - Install Gemini Code Assist in CLI and VS Code.
-- Install Antigravity.
+- Install Antigravity. And follow this for the WSL Setup: [Setup Guide for WSL (remote setup and browser)](https://medium.com/google-cloud/working-with-google-antigravity-in-wsl-944c96c949f3)
 
 ## Additional Reminders
 
