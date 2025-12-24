@@ -39,6 +39,7 @@
 - Download flow launcher and set it up.
 - Add alt walker plugin to flow launcher. (research on everything search)
 - Flow launcher: disable animation and sound in settings, launch on startup, double check the Pinyin searching.
+- Zen
 
 # Terminal Setup Guide
 
