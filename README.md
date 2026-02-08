@@ -2,7 +2,7 @@
 - **Chronic Issues:** People pleasing, Overthinking, Pretending everything is/will be okay
 - **Coping Mechanisms:** Self-sabotage, Detachment & Isolation
 - **Languages**: Words of affirmation, Quality time, Acts of service, Gifts, Physical touch
-- Commit maxing
+- Commit and connect maxing
 
 # Currently Learning
 - Implementation of strategic fiscal responsibility protocols
@@ -33,6 +33,7 @@ As my mental health gets worse, my spotify minutes (and music taste) gets better
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
 </p>
+
 
 
 
