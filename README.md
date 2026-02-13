@@ -11,7 +11,7 @@
 - Amplifying enterprise-scale auditory engagement metrics to drive user-centric ROI
 - Conducting comparative analysis of instant coffees for optimal classroom alertness retention
   
-**About Me:** As my mental health gets worse, my spotify minutes increase (and music taste gets better).
+As my mental health gets worse, my spotify minutes increase (and music taste gets better).
 
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a>
@@ -35,6 +35,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a>
 <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a>
 </p>
+
 
 
 
